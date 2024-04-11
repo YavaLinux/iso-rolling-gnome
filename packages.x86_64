@@ -1,0 +1,364 @@
+# vanilla arch
+alsa-utils
+amd-ucode
+arch-install-scripts
+archinstall
+b43-fwcutter
+base
+bcachefs-tools
+bind
+bolt
+brltty
+broadcom-wl
+btrfs-progs
+clonezilla
+cloud-init
+cryptsetup
+darkhttpd
+ddrescue
+dhclient
+dhcpcd
+diffutils
+dmidecode
+dmraid
+dnsmasq
+dosfstools
+e2fsprogs
+edk2-shell
+efibootmgr
+espeakup
+ethtool
+exfatprogs
+f2fs-tools
+fatresize
+foot-terminfo
+fsarchiver
+gpart
+gpm
+gptfdisk
+# grml-zsh-config
+grub
+hdparm
+hyperv
+intel-ucode
+irssi
+iw
+iwd
+jfsutils
+kitty-terminfo
+ldns
+less
+lftp
+libfido2
+libusb-compat
+linux-lts
+linux-atm
+linux-firmware
+linux-firmware-marvell
+livecd-sounds
+lsscsi
+lvm2
+lynx
+man-db
+man-pages
+mc
+mdadm
+memtest86+
+memtest86+-efi
+mkinitcpio
+mkinitcpio-archiso
+mkinitcpio-nfs-utils
+# modemmanager
+mtools
+nano
+nbd
+ndisc6
+nfs-utils
+nilfs-utils
+nmap
+ntfs-3g
+nvme-cli
+open-iscsi
+open-vm-tools
+openconnect
+openpgp-card-tools
+openssh
+openvpn
+partclone
+parted
+partimage
+pcsclite
+ppp
+pptpclient
+pv
+qemu-guest-agent
+refind
+reflector
+reiserfsprogs
+rp-pppoe
+rsync
+rxvt-unicode-terminfo
+screen
+sdparm
+sequoia-sq
+sg3_utils
+smartmontools
+sof-firmware
+squashfs-tools
+sudo
+syslinux
+systemd-resolvconf
+tcpdump
+terminus-font
+testdisk
+tmux
+tpm2-tools
+tpm2-tss
+udftools
+usb_modeswitch
+usbmuxd
+usbutils
+# vim
+# virtualbox-guest-utils-nox
+vpnc
+wezterm-terminfo
+wireless-regdb
+wireless_tools
+wpa_supplicant
+wvdial
+xfsprogs
+xl2tpd
+zsh
+
+# core
+# bash
+dialog
+dnsutils
+linux-lts-headers
+base-devel
+aic94xx-firmware
+i2c-tools
+libffi
+dkms
+expect
+gnupg
+logrotate
+ntp
+upd72020x-fw
+# wd719x-firmware
+wget
+curl
+rsync
+libyaml
+yaml-cpp
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+pipewire-v4l2
+pipewire-x11-bell
+pipewire-zeroconf
+oh-my-zsh-git
+yavalinux-system-git
+alci-calamares
+ainyava-calamares-git
+ainyava-app-configs-git
+
+# graphics
+xorg-server
+xorg-apps
+xorg-xinit
+xf86-input-elographics
+xf86-input-libinput
+mesa
+
+# audio
+alsa-firmware
+alsa-lib
+alsa-topology-conf
+alsa-ucm-conf
+alsa-plugins
+alsa-utils
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer
+libdvdcss
+pulseaudio
+pulseaudio-alsa
+
+# bluetooth
+blueberry
+bluez
+bluez-libs
+bluez-utils
+pulseaudio-bluetooth
+
+# network
+avahi
+nss-mdns
+mobile-broadband-provider-info
+modemmanager
+networkmanager
+network-manager-applet
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+networkmanager-qt5
+openresolv
+rtl8821cu-morrownr-dkms-git
+
+# printer
+cups
+cups-filters
+cups-pdf
+ghostscript
+gsfonts
+gutenprint
+system-config-printer
+
+# text
+noto-fonts
+awesome-terminal-fonts
+ttf-dejavu
+ttf-droid
+ttf-hack
+ttf-inconsolata
+ttf-roboto
+ttf-roboto-mono
+# libreoffice-fresh
+noto-fonts-emoji
+
+
+# desktop
+gdm
+gnome
+plank
+papirus-icon-theme
+xdg-desktop-portal-gnome
+xdg-user-dirs-gtk
+gnome-control-center
+gnome-firmware
+gnome-keyring
+gnome-screenshot
+gnome-session
+gnome-settings-daemon
+gnome-shell
+gnome-system-monitor
+gnome-terminal
+gnome-tweaks
+mutter
+eog
+evince
+ffmpegthumbnailer
+file-roller
+geary
+gedit
+gedit-plugins
+gnome-calculator
+gnome-disk-utility
+gnome-shell-extensions
+gvfs
+gvfs-afc
+gvfs-goa
+gvfs-google
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+nautilus
+sushi
+tracker3-miners
+kvantum
+ainyava-gnome-git
+ainyava-gnome-configs-git
+ainyava-gnome-extensions-git
+pop-launcher-git
+
+# cli-tools
+dconf-editor
+openbsd-netcat
+fortune-mod
+lolcat
+jq
+yq
+thefuck
+feh
+imagemagick
+p7zip
+unzip
+unrar
+zsh-completions
+zsh-autosuggestions
+zsh-syntax-highlighting
+tree
+w3m
+mlocate
+
+
+# development
+git
+gcc
+cmake
+tmux
+neovim
+# go
+# rust
+# python
+# python-pip
+# nodejs
+# npm
+# ruby
+# jre-openjdk
+# visual-studio-code-bin
+# sublime-text-4
+
+# devtools
+guake
+# librdkafka
+# docker
+# docker-buildx
+# docker-compose
+# kubectl
+# kafka
+# dbeaver
+# android-sdk-platform-tools
+android-tools
+pyenv
+nvm
+
+# dev-packages
+# python-pyotp
+# python-pexpect
+# python-numpy
+# python-pandas
+# python-pyperclip
+# ipython
+# jupyterlab
+
+# internet
+# nekoray
+# sing-geoip
+# sing-geosite
+openvpn
+# telegram-desktop
+# discord
+google-chrome
+# anydesk-bin
+firefox
+
+# multimedia
+# obs-studio
+mpv
+smplayer
+# vlc
+
+# gaming
+# stream
+# openrgb
+# lutris
+# proton
